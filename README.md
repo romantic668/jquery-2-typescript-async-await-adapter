@@ -1,6 +1,6 @@
 # jQuery 2 - TypeScript `async/await` Adapter
 
-Replaces TypeScript's generated `async/await` support code so jQuery 2's crappy `JQueryPromise` can be used with `async/await`.
+Replaces TypeScript's generated `async/await` support code, so jQuery 2's crappy `JQueryPromise` can be used with `async/await`.
 
 
 ## Usage
